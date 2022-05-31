@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/CKKS/build",
+  "command": "/bin/c++    -g   -o CMakeFiles/CKKS_test.dir/CKKS_test.cpp.o -c /home/CKKS/CKKS_test.cpp",
+  "file": "/home/CKKS/CKKS_test.cpp"
+}
+]

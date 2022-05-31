@@ -1,0 +1,2 @@
+/bin/ar qc libCKKS_test.a  CMakeFiles/CKKS_test.dir/CKKS_test.cpp.o
+/bin/ranlib libCKKS_test.a
